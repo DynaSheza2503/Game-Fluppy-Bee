@@ -1,1 +1,1 @@
-# Game-Fluppy-Bee
+# Flappy-Bird-Game with JavaScript
